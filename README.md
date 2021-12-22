@@ -18,7 +18,7 @@ This project intends to design a quadcopter simulation and control program using
 
 Quadcopter will perform wind disturbance rejection, altitude and attitude maintenance.    
 
-The model was developed based on: * [Package Delivery Quadcopter](https://www.mathworks.com/help/physmod/sm/ug/quadcopter.html)
+The model was developed based on:  [Package Delivery Quadcopter](https://www.mathworks.com/help/physmod/sm/ug/quadcopter.html)
 
 
 
