@@ -1,6 +1,7 @@
 # Quadcopter Simulation and Altitude & Attitude Control
 
-![Simulation_Demo](https://github.com/likeyousmile/Quadcopter-Simulation-and-Altitude-Attitude-Control\Simulation_Demo.gif)
+![Simulation_Demo](https://user-images.githubusercontent.com/92595395/147132161-257b4cb8-b9d6-430d-8325-4190c30aab6e.gif)
+
 
 # Dependencies
 * [Simspcace Multibody](https://www.mathworks.com/products/simscape-multibody.html)   
