@@ -14,9 +14,11 @@
 # Description
 This is NYU Tandon ME-GY 6923 Simulation Tools for Mechatronics and Robotics Fall 2021 semester group final project.  
 
-This project intends to design a quadcopter simulation and control program using MathWorks newest package delivery quadcopter model.Quadcopter will perform wind disturbance rejection, altitude and attitude maintenance.  
+This project intends to design a quadcopter simulation and control program using MathWorks newest package delivery quadcopter model.  
 
-* [Package Delivery Quadcopter](https://www.mathworks.com/help/physmod/sm/ug/quadcopter.html)
+Quadcopter will perform wind disturbance rejection, altitude and attitude maintenance.    
+
+The model was developed based on: * [Package Delivery Quadcopter](https://www.mathworks.com/help/physmod/sm/ug/quadcopter.html)
 
 
 
