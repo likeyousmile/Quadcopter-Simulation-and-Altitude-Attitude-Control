@@ -1,8 +1,10 @@
 # Quadcopter Simulation and Altitude & Attitude Control
 
+# Front View
 ![Simulation_Demo](https://user-images.githubusercontent.com/92595395/147132161-257b4cb8-b9d6-430d-8325-4190c30aab6e.gif)
-![Simulation_Demo_2](https://user-images.githubusercontent.com/92595395/147133475-f8a151f9-110c-498f-ae2c-356178787758.gif)
 
+# Isometric View
+![Simulation_Demo_2](https://user-images.githubusercontent.com/92595395/147133475-f8a151f9-110c-498f-ae2c-356178787758.gif)
 
 
 # Dependencies
